@@ -1,0 +1,13 @@
+{
+  "name": "my-semantic",
+  "version": "1.0.0",
+  "description": "Getting started with Semantic UI",
+  "main": "index.js",
+  "dependencies": {
+    "semantic-ui": "^2.2.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
